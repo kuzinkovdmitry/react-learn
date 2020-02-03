@@ -1,0 +1,15 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    width: 550px;
+    margin-top: 50px;
+}
+
+.search-filter {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}

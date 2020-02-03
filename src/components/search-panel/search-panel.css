@@ -1,0 +1,10 @@
+.search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
+
+input {
+    padding: 0 10px;
+    font-size: 20px;
+}
